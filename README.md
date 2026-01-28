@@ -85,4 +85,11 @@ python app.py
 ```
 
 
+## 📸 Web App Screenshot
+
+![Potato Disease App](Screenshot%20.png)
+
+
+
+
 
